@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:4F:61:DC&stream=1294852&extension=m3u8&play_token=AHllA8u2yz
